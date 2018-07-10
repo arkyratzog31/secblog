@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+.image-header {
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+  margin-bottom: 60px;
+  filter: brightness(50%); }
+
+.image-header__image {
+  width: 100%; }
+
+.article__header {
+  font-size: 3em;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  margin-bottom: 30px; }
+
+.article__subheader {
+  font-size: 1em;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  margin-bottom: 0;
+  padding: 80px; }
+
+.article__body {
+  font-size: 1em;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  margin-bottom: 60px; }
+
+.tag {
+  display: inline-block;
+  background: #e5e5e5;
+  text-decoration: none;
+  padding: 5px 15px;
+  font-size: .9em;
+  font-weight: 400;
+  color: #979797;
+  margin-right: 10px; }
+
+body {
+  margin: 0;
+  padding: 10px 100px;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility; }
+
+h1,
+h2,
+h3
+h4,
+h5 {
+  margin-top: 0; }
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #515151; }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Raleway", sans-serif;
+  color: #353535; }
+
+.image-header {
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+  margin-bottom: 60px; }
+
+.article {
+  margin-bottom: 60px;
+  padding: 0; }
+
+.artcile__header {
+  font-size: 2em;
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  margin-bottom: 30px; }
+
+.article__subheader {
+  font-size: 1.4em;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  margin-bottom: 60px;
+  padding: 100px; }
+
+.article__body {
+  font-size: 1.2em;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  margin-bottom: 60px; }
+
+a {
+  color: #47b8e0;
+  font-weight: 700;
+  text-decoration: none; }
+
+.author {
+  height: 60px;
+  margin-bottom: 60px; }
+
+.author__image {
+  width: 60px;
+  border-radius: 100%;
+  float: left; }
+
+.author__details {
+  padding-left: calc(60px + 20px); }
+
+.tag {
+  display: inline-block;
+  background: #e5e5e5;
+  text-decoration: none;
+  padding: 5px 15px;
+  font-size: .9em;
+  font-weight: 400;
+  color: #979797;
+  margin-right: 10px; }
+
+.post {
+  margin-bottom: 60px; }
+
+.postheader {
+  font-size: 1.0em;
+  font-weight: 800; }
+
+.post__author {
+  font-size: .9em;
+  font-weight: 400;
+  margin-bottom: 30px; }
+  .post__author a {
+    font-weight: 400; }
+
+.post__time {
+  margin-left: 10px; }
+
+.post__preview {
+  font-size: 1em;
+  font-weight: 400; }
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04); }
+
+/*# sourceMappingURL=app.css.map */
